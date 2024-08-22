@@ -1,0 +1,40 @@
+@font-face {
+  font-display: swap;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 400;
+  src: url('/shelter/assets/fonts/arial-regular.ttf') format('truetype');
+  /* truetype*/
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Arial";
+  font-style: italic;
+  font-weight: 400;
+  src: url('/shelter/assets/fonts/arial-italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  src: url('/shelter/assets/fonts/georgia-regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Georgia";
+  font-style: italic;
+  font-weight: 400;
+  src: url('/shelter/assets/fonts/georgia-italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 700;
+  src: url('/shelter/assets/fonts/georgia-bold.ttf') format('truetype');
+}
